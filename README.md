@@ -10,6 +10,7 @@ Implementation:
   1. 2 pairs of 3 keys installed on the edges of the case for printing
   2. 6 servos arranged 3x2 which convert electronic text into tactile
   
+  
 List of required parts:
   1. 
  
